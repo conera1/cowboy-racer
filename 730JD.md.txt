@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #John Deere 730 QuickStart Guide
 ================================
 
@@ -83,3 +84,90 @@ Did you verify hydraulic fluid levels?
 contact conera1@appstate.edu
 
 
+=======
+#John Deere 730 QuickStart Guide
+================================
+
+While there are shop manuals, parts manuals, and operator's manuals available for the vintage 730 John Deere tractor, there are no simple QuickStart files to get the new user started with basic controls and instructions.  
+
+Built between 1958 and 1960, the 30 series tractor was the last version of John Deere's iconic two-cylinder **"Johnny Popper."**  Since versions of this tractor had been in production since 1918, users were assumed to have a level of familiarity with the equipment that no longer exists.  This Guide will introduce new users to the basic features in order to start operating the 730 John Deere.
+
+##Description of Equipment
+
+The 730 John Deere tractor is a 52 horsepower, gasoline powered tractor with a 12 volt, positive ground electrical system.  It has a six speed, unsynchronized, manual transmission with one reverse gear.  It features live power take-off (PTO) and live hydraulics.  This particular model has a Farmhand F11 loader, the operation of which must be taken into account while starting and moving.
+
+The locations of the pertinent tractor controls are shown [here](//pic of cockpit with captions).  
+
+The loader controls are described [here](//pic of loader levers with captions).
+
+##Instructions for Use
+
+###Starting  
+
+1) Check fluid levels
+There are four fluid levels to check before operation:  engine oil level, hydraulic fluid level, coolant level, and fuel level.  Watch [this video](//youtube video of fluid checking) to see the locations of the dipsticks for these levels.
+
+2) Turn fuel valve on (if equipped).
+
+3) Apply brakes, disengage the clutch, and shift the transmission to neutral.
+
+4) Disengage the PTO if the tractor has sat longer than one week.
+
+5) Pull choke to fully choked.
+
+6)  Turn on ignition switch and move throttle slightly off idle.
+
+7) Press Starter button for 30 seconds or until engine fires.  Immediately push choke to half choke.
+
+8) Allow to warm up until engine runs smoothly at about 500rpm with the choke fully pushed in.  Don't forget to reengage the PTO!
+
+###Moving
+
+1) Lift the main boom of the loader off the ground, high enough to miss pedestrian legs but low enough to miss tree limbs.
+
+2) Place the transmission in the appropriate gear.  4th gear is probably the best all-around gear for general transport.
+
+3)  Bump the throttle up until the engine speed is approximately 750-800rpm.
+
+3) Simultaneously release the brakes and begin to engage the clutch.  Maintain the clutch in the [friction zone](//youtube video explaining) until the tractor is moving, than fully engage it.
+
+4) Adjust the engine speed to reach desired road speed, and pop away!  Don't forget your parade wave for all the spectators!
+
+##FAQ
+
+_Q:  Where is the clutch again?_
+
+A:  Two cylinder John Deeres, at least in the larger models, all have a [hand clutch](//insert url of picture here) on the right side of the operator's station.
+
+_Q: Is this QuickStart Guide applicable to my non-30 series John Deere?_
+
+A:  Yes, this guide will work with any gasoline or tractor fuel powered 2-cylinder John Deere with an electric starter.
+
+
+##Troubleshooting
+
+_Tractor will not engage the starter._
+
+With a voltmeter, check battery voltage, then check for clean connections on the battery terminals.  You may need to give the starter a good wack, this is a vintage piece of equipment, and sometimes they need a little persuasion.
+
+_Tractor turns over but will not fire._
+
+Did you turn the fuel on?
+Did you engage the choke properly?
+
+_Tractor thought about starting, but now it won't, and I smell gas._
+
+You flooded it.  Do 20 pushups and call yourself **multiple derogatory names**.  Then push in the choke completely, open the throttle to approximately 1/4 open, and hope that God loves you.  If not, you're going to have to remove and dry the spark plugs.
+
+_Loader will not lift off ground._
+
+Did you engage the PTO?
+Did you verify hydraulic fluid levels?
+
+
+##How to Contribute
+
+contact conera1@appstate.edu
+
+
+>>>>>>> eb91e80bb0fa6d02e2075e4b9de868dac6447252
